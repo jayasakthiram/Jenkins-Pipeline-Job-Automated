@@ -20,6 +20,6 @@ Creating a xml config file using Etree library.
 
 ---
 - Author : Jayasakthiram N <br>
-- Input File: automate_job.py <br>
+- Input File: automate_jobs.py <br>
 - Date Modified: 14th June 2021 
 ---
